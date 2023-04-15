@@ -1,0 +1,2 @@
+2 deuxieme Master INDUS 1 1 G4 2 6 7 
+1 Premiere ING INF 3 3 G1 G2 G3 6 1 2 3 4 5 8 

@@ -1,0 +1,7 @@
+M1 Francais 1.5 1 
+M2 Anglais 1.5 1 
+M3 Java 3 2 
+M4 C++ 3 2 
+M5 Reseau 3.5 3 
+M6 TG 2.0 3 
+M7 Projet 4.0 4 

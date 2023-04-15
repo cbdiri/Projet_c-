@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1679835634 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\main.cpp
+	<iostream>
+	"Etudiant.h"
+	"Enseignant.h"
+	"Matiere.h"
+	"GroupeModule.h"
+	"Groupe.h"
+	"Note.h"
+	"Pv.h"
+
+1679303535 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\class.h
+	<iostream>
+
+1679303817 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\class.cpp
+
+1679344830 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\etudiant.cpp
+	<iostream>
+	<string.h>
+	<cstdio>
+	"Etudiant.h"
+
+1679750992 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\etudiant.h
+	"Personne.h"
+
+1679310753 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\personne.h
+
+1679326532 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\personne.cpp
+	<iostream>
+	<string.h>
+	"Personne.h"
+
+1679344297 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\enseignant.cpp
+	<iostream>
+	<string.h>
+	"Enseignant.h"
+
+1679344279 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\enseignant.h
+	"Personne.h"
+
+1679434131 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\matiere.cpp
+	<iostream>
+	<string.h>
+	"Matiere.h"
+
+1679423673 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\matiere.h
+	"Enseignant.h"
+
+1679793155 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\groupemodule.cpp
+	<iostream>
+	<string.h>
+	"GroupeModule.h"
+
+1679792752 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\groupemodule.h
+	"Matiere.h"
+
+1679776984 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\groupe.cpp
+	<iostream>
+	<string.h>
+	"Groupe.h"
+
+1679759247 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\groupe.h
+	"GroupeModule.h"
+	"Etudiant.h"
+
+1679779409 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\note.h
+	"Matiere.h"
+	"Etudiant.h"
+
+1679827121 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\note.cpp
+	<iostream>
+	<string.h>
+	"Note.h"
+
+1679785774 c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\pv.h
+	"Groupe.h"
+	"Note.h"
+
+1679832632 source:c:\users\bdiri\onedrive\bureau\prijet c++\projet c++\pv.cpp
+	<iostream>
+	"string.h"
+	"Pv.h"
+	<windows.h>
+
+1679344297 source:c:\users\bdiri\onedrive\bureau\projet c++\enseignant.cpp
+	<iostream>
+	<string.h>
+	"Enseignant.h"
+
+1679344279 c:\users\bdiri\onedrive\bureau\projet c++\enseignant.h
+	"Personne.h"
+
+1679310753 c:\users\bdiri\onedrive\bureau\projet c++\personne.h
+
+1679344830 source:c:\users\bdiri\onedrive\bureau\projet c++\etudiant.cpp
+	<iostream>
+	<string.h>
+	<cstdio>
+	"Etudiant.h"
+
+1679750992 c:\users\bdiri\onedrive\bureau\projet c++\etudiant.h
+	"Personne.h"
+
+1679776984 source:c:\users\bdiri\onedrive\bureau\projet c++\groupe.cpp
+	<iostream>
+	<string.h>
+	"Groupe.h"
+
+1679759247 c:\users\bdiri\onedrive\bureau\projet c++\groupe.h
+	"GroupeModule.h"
+	"Etudiant.h"
+
+1679792752 c:\users\bdiri\onedrive\bureau\projet c++\groupemodule.h
+	"Matiere.h"
+
+1679423673 c:\users\bdiri\onedrive\bureau\projet c++\matiere.h
+	"Enseignant.h"
+
+1679793155 source:c:\users\bdiri\onedrive\bureau\projet c++\groupemodule.cpp
+	<iostream>
+	<string.h>
+	"GroupeModule.h"
+
+1679835634 source:c:\users\bdiri\onedrive\bureau\projet c++\main.cpp
+	<iostream>
+	"Etudiant.h"
+	"Enseignant.h"
+	"Matiere.h"
+	"GroupeModule.h"
+	"Groupe.h"
+	"Note.h"
+	"Pv.h"
+
+1679779409 c:\users\bdiri\onedrive\bureau\projet c++\note.h
+	"Matiere.h"
+	"Etudiant.h"
+
+1679785774 c:\users\bdiri\onedrive\bureau\projet c++\pv.h
+	"Groupe.h"
+	"Note.h"
+
+1679434131 source:c:\users\bdiri\onedrive\bureau\projet c++\matiere.cpp
+	<iostream>
+	<string.h>
+	"Matiere.h"
+
+1679827121 source:c:\users\bdiri\onedrive\bureau\projet c++\note.cpp
+	<iostream>
+	<string.h>
+	"Note.h"
+
+1679326532 source:c:\users\bdiri\onedrive\bureau\projet c++\personne.cpp
+	<iostream>
+	<string.h>
+	"Personne.h"
+
+1679840133 source:c:\users\bdiri\onedrive\bureau\projet c++\pv.cpp
+	<iostream>
+	"string.h"
+	"Pv.h"
+	<windows.h>
+
